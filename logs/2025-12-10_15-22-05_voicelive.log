@@ -1,0 +1,8 @@
+2025-12-10 15:22:05,485:__main__:INFO:Using API key credential
+2025-12-10 15:22:05,486:__main__:INFO:Connecting to VoiceLive API with model gpt-4o-realtime
+2025-12-10 15:22:05,973:__main__:INFO:AudioProcessor initialized with 24kHz PCM16 mono audio
+2025-12-10 15:22:05,973:__main__:INFO:Setting up voice conversation session...
+2025-12-10 15:22:05,975:azure.ai.voicelive.aio._patch:ERROR:Failed to send event: Cannot write to closing transport
+2025-12-10 15:22:05,976:__main__:INFO:Stopped audio capture
+2025-12-10 15:22:05,976:__main__:INFO:Stopped audio playback
+2025-12-10 15:22:05,976:__main__:INFO:Audio processor cleaned up

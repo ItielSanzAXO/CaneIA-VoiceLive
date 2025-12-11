@@ -1,0 +1,33 @@
+2025-12-10 17:21:54,742:__main__:INFO:Using API key credential
+2025-12-10 17:21:54,743:__main__:INFO:Connecting to VoiceLive API with model gpt-realtime
+2025-12-10 17:21:55,249:__main__:INFO:AudioProcessor initialized with 24kHz PCM16 mono audio
+2025-12-10 17:21:55,249:__main__:INFO:Setting up voice conversation session...
+2025-12-10 17:21:55,251:__main__:INFO:Session configuration sent
+2025-12-10 17:21:55,266:__main__:INFO:Audio playback system ready
+2025-12-10 17:21:55,815:__main__:INFO:Voice assistant ready! Start speaking...
+2025-12-10 17:21:55,819:__main__:INFO:Session ready: sess_ClNnHJhUt6K4j7kQGQXxg
+2025-12-10 17:21:55,849:__main__:INFO:Started audio capture
+2025-12-10 17:21:57,974:__main__:INFO:User started speaking - stopping playback
+2025-12-10 17:21:58,541:__main__:INFO:\U0001f3a4 User stopped speaking
+2025-12-10 17:21:58,550:__main__:INFO:\U0001f916 Assistant response created
+2025-12-10 17:22:00,124:__main__:INFO:\U0001f916 Assistant finished speaking
+2025-12-10 17:22:00,128:__main__:INFO:\u2705 Response complete
+2025-12-10 17:22:03,933:__main__:INFO:User started speaking - stopping playback
+2025-12-10 17:22:05,740:__main__:INFO:\U0001f3a4 User stopped speaking
+2025-12-10 17:22:05,743:__main__:INFO:\U0001f916 Assistant response created
+2025-12-10 17:22:09,138:__main__:INFO:\U0001f916 Assistant finished speaking
+2025-12-10 17:22:09,144:__main__:INFO:\u2705 Response complete
+2025-12-10 17:22:15,474:__main__:INFO:User started speaking - stopping playback
+2025-12-10 17:22:16,844:__main__:INFO:\U0001f3a4 User stopped speaking
+2025-12-10 17:22:16,847:__main__:INFO:\U0001f916 Assistant response created
+2025-12-10 17:22:19,923:__main__:INFO:\U0001f916 Assistant finished speaking
+2025-12-10 17:22:19,927:__main__:INFO:\u2705 Response complete
+2025-12-10 17:22:30,825:__main__:INFO:User started speaking - stopping playback
+2025-12-10 17:22:31,939:__main__:INFO:\U0001f3a4 User stopped speaking
+2025-12-10 17:22:31,945:__main__:INFO:\U0001f916 Assistant response created
+2025-12-10 17:22:34,868:__main__:INFO:\U0001f916 Assistant finished speaking
+2025-12-10 17:22:34,874:__main__:INFO:\u2705 Response complete
+2025-12-10 17:22:44,589:__main__:INFO:Received shutdown signal
+2025-12-10 17:22:44,618:__main__:INFO:Stopped audio capture
+2025-12-10 17:22:44,726:__main__:INFO:Stopped audio playback
+2025-12-10 17:22:44,727:__main__:INFO:Audio processor cleaned up

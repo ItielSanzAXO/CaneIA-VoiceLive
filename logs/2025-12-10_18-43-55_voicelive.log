@@ -1,0 +1,29 @@
+2025-12-10 18:43:55,410:__main__:INFO:Using API key credential
+2025-12-10 18:43:55,411:__main__:INFO:Connecting to VoiceLive API with model gpt-realtime
+2025-12-10 18:43:55,794:__main__:INFO:AudioProcessor initialized with 24kHz PCM16 mono audio
+2025-12-10 18:43:55,794:__main__:INFO:Setting up voice conversation session...
+2025-12-10 18:43:55,796:__main__:INFO:Session configuration sent
+2025-12-10 18:43:55,814:__main__:INFO:Audio playback system ready
+2025-12-10 18:43:55,895:__main__:INFO:Started audio capture
+2025-12-10 18:43:55,895:__main__:INFO:Audio capture started at program start
+2025-12-10 18:43:55,895:__main__:INFO:Voice assistant ready! Start speaking...
+2025-12-10 18:43:56,096:__main__:INFO:Session ready: sess_ClP4eSF1BXPlH2EwdekL7
+2025-12-10 18:43:58,240:__main__:INFO:User started speaking - stopping playback
+2025-12-10 18:43:59,153:__main__:INFO:\U0001f3a4 User stopped speaking
+2025-12-10 18:43:59,163:__main__:INFO:\U0001f916 Assistant response created
+2025-12-10 18:44:00,635:__main__:INFO:\U0001f916 Assistant finished speaking
+2025-12-10 18:44:00,645:__main__:INFO:\u2705 Response complete
+2025-12-10 18:44:04,436:__main__:INFO:User started speaking - stopping playback
+2025-12-10 18:44:06,355:__main__:INFO:\U0001f3a4 User stopped speaking
+2025-12-10 18:44:06,359:__main__:INFO:\U0001f916 Assistant response created
+2025-12-10 18:44:10,653:__main__:INFO:\U0001f916 Assistant finished speaking
+2025-12-10 18:44:10,656:__main__:INFO:\u2705 Response complete
+2025-12-10 18:44:21,291:__main__:INFO:User started speaking - stopping playback
+2025-12-10 18:44:22,851:__main__:INFO:\U0001f3a4 User stopped speaking
+2025-12-10 18:44:22,853:__main__:INFO:\U0001f916 Assistant response created
+2025-12-10 18:44:26,520:__main__:INFO:\U0001f916 Assistant finished speaking
+2025-12-10 18:44:26,522:__main__:INFO:\u2705 Response complete
+2025-12-10 18:44:35,023:__main__:INFO:Received shutdown signal
+2025-12-10 18:44:35,086:__main__:INFO:Stopped audio capture
+2025-12-10 18:44:35,223:__main__:INFO:Stopped audio playback
+2025-12-10 18:44:35,223:__main__:INFO:Audio processor cleaned up

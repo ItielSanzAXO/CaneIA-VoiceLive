@@ -1,0 +1,18 @@
+2025-12-10 18:10:40,817:__main__:INFO:Using API key credential
+2025-12-10 18:10:40,818:__main__:INFO:Connecting to VoiceLive API with model gpt-realtime
+2025-12-10 18:10:41,289:__main__:INFO:AudioProcessor initialized with 24kHz PCM16 mono audio
+2025-12-10 18:10:41,289:__main__:INFO:Setting up voice conversation session...
+2025-12-10 18:10:41,291:__main__:INFO:Session configuration sent
+2025-12-10 18:10:41,317:__main__:INFO:Audio playback system ready
+2025-12-10 18:10:41,369:__main__:INFO:Voice assistant ready! Start speaking...
+2025-12-10 18:10:41,373:__main__:INFO:Session ready: sess_ClOYTEFo8HxvBXD7pCQRq
+2025-12-10 18:10:41,404:__main__:INFO:Started audio capture
+2025-12-10 18:10:48,854:__main__:INFO:User started speaking - stopping playback
+2025-12-10 18:10:49,721:__main__:INFO:\U0001f3a4 User stopped speaking
+2025-12-10 18:10:49,732:__main__:INFO:\U0001f916 Assistant response created
+2025-12-10 18:10:51,449:__main__:INFO:\U0001f916 Assistant finished speaking
+2025-12-10 18:10:51,460:__main__:INFO:\u2705 Response complete
+2025-12-10 18:11:03,678:__main__:INFO:Received shutdown signal
+2025-12-10 18:11:03,684:__main__:INFO:Stopped audio capture
+2025-12-10 18:11:03,827:__main__:INFO:Stopped audio playback
+2025-12-10 18:11:03,829:__main__:INFO:Audio processor cleaned up

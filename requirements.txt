@@ -1,0 +1,7 @@
+numpy
+pyaudio
+azure-ai-voicelive
+python-dotenv
+azure-identity
+azure-core
+Pillow

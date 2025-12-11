@@ -1,0 +1,11 @@
+2025-12-10 15:15:33,131:__main__:INFO:Using API key credential
+2025-12-10 15:15:33,133:__main__:INFO:Connecting to VoiceLive API with model gpt-realtime
+2025-12-10 15:15:33,547:__main__:INFO:AudioProcessor initialized with 24kHz PCM16 mono audio
+2025-12-10 15:15:33,547:__main__:INFO:Setting up voice conversation session...
+2025-12-10 15:15:33,549:__main__:INFO:Session configuration sent
+2025-12-10 15:15:33,565:__main__:INFO:Audio playback system ready
+2025-12-10 15:15:33,566:__main__:INFO:Voice assistant ready! Start speaking...
+2025-12-10 15:15:33,568:__main__:ERROR:\u274c VoiceLive error: Model gpt-realtime is not supported in this region.
+2025-12-10 15:15:33,568:__main__:INFO:Stopped audio capture
+2025-12-10 15:15:33,723:__main__:INFO:Stopped audio playback
+2025-12-10 15:15:33,723:__main__:INFO:Audio processor cleaned up

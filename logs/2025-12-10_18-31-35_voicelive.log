@@ -1,0 +1,25 @@
+2025-12-10 18:31:36,028:__main__:INFO:Using API key credential
+2025-12-10 18:31:36,029:__main__:INFO:Connecting to VoiceLive API with model gpt-realtime
+2025-12-10 18:31:36,445:__main__:INFO:AudioProcessor initialized with 24kHz PCM16 mono audio
+2025-12-10 18:31:36,445:__main__:INFO:Setting up voice conversation session...
+2025-12-10 18:31:36,449:__main__:INFO:Session configuration sent
+2025-12-10 18:31:36,467:__main__:INFO:Audio playback system ready
+2025-12-10 18:31:36,525:__main__:INFO:Voice assistant ready! Start speaking...
+2025-12-10 18:31:36,529:__main__:INFO:Session ready: sess_ClOsitOuioSLc1vcKH0yj
+2025-12-10 18:31:39,887:__main__:INFO:GUI selection: atrobot
+2025-12-10 18:31:40,053:__main__:ERROR:Failed to start capture on GUI selection
+Traceback (most recent call last):
+  File "E:\CaneIA-VoiceLive\basic_voice_assistant.py", line 545, in _on_gui_selection
+    self.audio_processor.start_capture()
+  File "E:\CaneIA-VoiceLive\basic_voice_assistant.py", line 144, in start_capture
+    self.loop = asyncio.get_event_loop()
+                ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\asyncio\events.py", line 702, in get_event_loop
+    raise RuntimeError('There is no current event loop in thread %r.'
+RuntimeError: There is no current event loop in thread 'Thread-1 (_run)'.
+2025-12-10 18:31:53,899:__main__:INFO:GUI selection: planetas
+2025-12-10 18:31:55,867:__main__:INFO:GUI selection: cohetes
+2025-12-10 18:32:00,960:__main__:INFO:Received shutdown signal
+2025-12-10 18:32:00,961:__main__:INFO:Stopped audio capture
+2025-12-10 18:32:01,074:__main__:INFO:Stopped audio playback
+2025-12-10 18:32:01,074:__main__:INFO:Audio processor cleaned up
